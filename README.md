@@ -7,10 +7,10 @@ This repository has been created to provide you with practical examples of the c
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://github.com/Ahmadjajja">
-                    <img src="https://avatars.githubusercontent.com/u/86593662?v=4" width="100px;" alt="Ahmad Jajja"/>
+                <a href="https://github.com/Mashoodgondal">
+                    <img src="https://avatars.githubusercontent.com/u/124273207?v=4" width="100px;" alt="Mashood Ali"/>
                     <br />
-                    <sub><b>Ahmad Jajja</b></sub>
+                    <sub><b>Mashood Ali</b></sub>
                 </a> 
             </td>
         </tr> 
